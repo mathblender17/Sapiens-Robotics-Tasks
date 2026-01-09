@@ -92,6 +92,8 @@ Optimization Strategy:
 
 The attached video demonstrates the model's capability to process video feeds. While the FPS varies by hardware, the model successfully identifies and tracks vehicles in a dynamic traffic scene, proving the validity of the training pipeline.
 
+The trained model weights exceed GitHub's file size limit. . [Download the model file (faster_rcnn_final.pth) from the Releases page here](https://github.com/mathblender17/Sapiens-Robotics-Tasks/releases/tag/v1.0)
+
 6\. Discussion: Accuracy vs. Speed Trade-offs
 ---------------------------------------------
 
