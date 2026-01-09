@@ -99,6 +99,9 @@ The trained model weights exceed GitHub's file size limit. . [Download the model
 
 The assignment required evaluating the model based on mAP, speed, and size. Our results highlight the classic trade-off between **Two-Stage** and **One-Stage** architectures.
 
+<img width="1120" height="295" alt="image" src="https://github.com/user-attachments/assets/b246ec43-8ec7-4453-b2aa-d894121517c5" />
+
+
 1.  **Accuracy Focus (Our Approach):**
     
     *   By choosing **Faster R-CNN**, we prioritized **Accuracy and Training Stability**.
@@ -112,6 +115,9 @@ The assignment required evaluating the model based on mAP, speed, and size. Our 
     *   **CPU Speed:** At **~0.5 FPS**, the model runs slowly on x86 CPUs. This is the trade-off for using a heavy ResNet-50 backbone.
         
     *   _Trade-off:_ If the priority were strictly CPU real-time speed, we would have sacrificed accuracy by switching to a **MobileNet** backbone or a **YOLO** architecture. However, for a general-purpose demonstration of "from scratch" learning, Faster R-CNN offers the best balance of reliability and performance.
+
+<img width="1102" height="445" alt="image" src="https://github.com/user-attachments/assets/9d75292e-6738-4d4e-bd99-a8d2bec238c5" />
+
         
 
 7\. Future Optimizations
