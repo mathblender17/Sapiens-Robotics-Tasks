@@ -1,0 +1,6 @@
+names:
+  0: scratch
+  1: missing
+path: /kaggle/working/hybrid_dataset
+train: images/train
+val: images/val
