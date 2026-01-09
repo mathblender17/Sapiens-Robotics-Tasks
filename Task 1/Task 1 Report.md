@@ -85,6 +85,7 @@ Optimization Strategy:
 ### **B. Visual Results**
 
 ![Detection Demo](demo_preview.gif)
+
 *(Running at ~21 FPS on ResNet-50-FPN)*
 
 **[🎥 Click here to watch the full detection video](task1_detection_demo.mp4)**
