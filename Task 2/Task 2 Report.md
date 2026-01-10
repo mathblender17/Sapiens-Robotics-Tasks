@@ -60,7 +60,7 @@ The model achieved high reliability across the industrial defect spectrum, with 
 
 Below is the **Industrial Defect Gallery** showing the model successfully identifying and labeling diverse real-world defects:
 
-![Automated Quality Inspection Output](sample output format.png)
+![Automated Quality Inspection Output](https://github.com/mathblender17/Sapiens-Robotics-Tasks/blob/main/Task%202/Sample%20output%20format.png)
 
 ![Industrial Defect Gallery](industrial_defect_gallery.png)
 ![Model Metrics](model metrics after validation .png)
