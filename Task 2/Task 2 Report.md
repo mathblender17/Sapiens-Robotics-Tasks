@@ -56,6 +56,9 @@ The model achieved high reliability across the industrial defect spectrum, with 
 | **Open Circuit** | 0.666 | 0.625 | 0.651 | 🔴 CRITICAL |
 | **Mouse Bite** | 0.615 | 0.502 | 0.574 | 🟡 MEDIUM |
 
+![Model Metrics](https://github.com/mathblender17/Sapiens-Robotics-Tasks/blob/main/Task%202/model%20metrics%20after%20validation%20.png)
+![Per Class Model Metrics](https://github.com/mathblender17/Sapiens-Robotics-Tasks/blob/main/Task%202/Per%20Class%20Performance%20Metrics.png)
+
 ### Qualitative Validation (Visual Proof)
 
 Below is the **Industrial Defect Gallery** showing the model successfully identifying and labeling diverse real-world defects:
@@ -63,7 +66,7 @@ Below is the **Industrial Defect Gallery** showing the model successfully identi
 ![Automated Quality Inspection Output](https://github.com/mathblender17/Sapiens-Robotics-Tasks/blob/main/Task%202/Sample%20output%20format.png)
 
 ![Industrial Defect Gallery](industrial_defect_gallery.png)
-![Model Metrics](model metrics after validation .png)
+
 
 5\. Repository Structure
 ------------------------
