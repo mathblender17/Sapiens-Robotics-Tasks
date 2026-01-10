@@ -60,7 +60,10 @@ The model achieved high reliability across the industrial defect spectrum, with 
 
 Below is the **Industrial Defect Gallery** showing the model successfully identifying and labeling diverse real-world defects:
 
-_(Insert your industrial\_defect\_gallery.png here)_
+![Automated Quality Inspection Output](sample output format.png)
+
+![Industrial Defect Gallery](industrial_defect_gallery.png)
+![Model Metrics](model metrics after validation .png)
 
 5\. Repository Structure
 ------------------------
