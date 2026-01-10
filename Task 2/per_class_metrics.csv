@@ -1,0 +1,7 @@
+Defect Type,Precision,Recall,mAP50,mAP50-95
+mouse_bite,0.608,0.505,0.568,0.227
+spur,0.793,0.663,0.711,0.322
+open_circuit,0.658,0.626,0.650,0.240
+short,0.815,0.700,0.794,0.357
+missing_hole,0.975,0.981,0.994,0.576
+spurious_copper,0.795,0.507,0.571,0.262
